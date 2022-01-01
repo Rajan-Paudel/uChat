@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "489295080866",
+    "project_id": "uchat-f217f",
+    "storage_bucket": "uchat-f217f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:489295080866:android:dff07c25393983986196fb",
+        "android_client_info": {
+          "package_name": "com.uchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "489295080866-8o9c86q56skljrea6qc8re93t3s4f4gr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPkydDarA7CLrdY0QdNtSK5s0h7v-DwAI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "489295080866-8o9c86q56skljrea6qc8re93t3s4f4gr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
